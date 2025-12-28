@@ -7,10 +7,10 @@
     { "src": "/jan", "dest": "/jan.js" },
     { "src": "/tufail", "dest": "/tufail.js" },
     { "src": "/samand", "dest": "/samand.js" },
-    { "src": "/maqsood", "dest": "/maqsood.js" },
-    { "src": "/khodi", "dest": "/khodi.js" },
-    { "src": "/mujeeb", "dest": "/mujeeb.js" },
-    { "src": "/hamad", "dest": "/hamad.js" },
-    { "src": "/hamid", "dest": "/hamid.js" }
+    { "src": "/maqbool", "dest": "/maqbool.js" },
+    { "src": "/gm", "dest": "/gm.js" },
+    { "src": "/az", "dest": "/az.js" },
+    { "src": "/mmm", "dest": "/mmm.js" },
+    { "src": "/murtza", "dest": "/murtza.js" }
   ]
 }
